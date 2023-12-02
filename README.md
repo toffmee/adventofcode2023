@@ -7,3 +7,8 @@ This time in Go!
 Part 1 answer: 54632 in 2.48925ms
 Part 2 answer: 54019 in 7.138667ms
 ```
+## Day 02
+```
+Part 1 answer: 2683 in 1.431334ms
+Part 2 answer: 49710 in 283.208µs
+```
