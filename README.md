@@ -22,3 +22,8 @@ Part 2 answer: 84289137 in 682.042µs
 Part 1 answer: 26218 in 1.418458ms
 Part 2 answer: 9997537 in 975.458µs
 ```
+## Day 05
+```
+Part 1 answer: 836040384 in 127.791µs
+Part 2 answer: 10834440 in 2m53.255343958s
+```
