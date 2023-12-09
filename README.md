@@ -42,3 +42,8 @@ Part 2 answer: 247885995 in 5.288583ms
 Part 1 answer: 21883 in 852µs
 Part 2 answer: 12833235391111 in 3.292083ms
 ```
+## Day 09
+```
+Part 1 answer: 2005352194 in 877.042µs
+Part 2 answer: 1077 in 733.666µ
+```
